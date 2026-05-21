@@ -75,6 +75,7 @@ My main full-stack portfolio & tourism blogging platform — the core project th
 | [kaushalpandey.co.in](https://github.com/kaushalneoin-afk/kaushalpandey.co.in) | Next.js 15, TypeScript, Tailwind, Framer Motion | Premium portfolio site with tech profile, tourism blogging, certifications, YouTube-style vlog system |
 | [kaushalpandey-backend](https://github.com/kaushalneoin-afk/kaushalpandey-backend) | Node.js, Express, MongoDB, JWT, Cloudinary | REST API backend with auth, media management, content CRUD, analytics |
 | [kaushalpandey-admin](https://github.com/kaushalneoin-afk/kaushalpandey-admin) | React, TypeScript, Tailwind | Admin dashboard for content management, media uploads, analytics overview |
+| [MoversHub](https://github.com/kaushalneoin-afk/movershub) | Flutter Web, Express.js, Node.js | Moving & packing services web app with quote calculator, service listings, contact system |
 
 </div>
 
