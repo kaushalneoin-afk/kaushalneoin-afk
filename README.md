@@ -65,7 +65,22 @@
 
 ## 📦 Featured Projects
 
-I've built **10 production-grade SaaS utility tools** demonstrating full-stack engineering, AI integration, and scalable architecture.
+### 🌐 Portfolio Platform
+My main full-stack portfolio & tourism blogging platform — the core project that ties everything together.
+
+<div align="center">
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [kaushalpandey.co.in](https://github.com/kaushalneoin-afk/kaushalpandey.co.in) | Next.js 15, TypeScript, Tailwind, Framer Motion | Premium portfolio site with tech profile, tourism blogging, certifications, YouTube-style vlog system |
+| [kaushalpandey-backend](https://github.com/kaushalneoin-afk/kaushalpandey-backend) | Node.js, Express, MongoDB, JWT, Cloudinary | REST API backend with auth, media management, content CRUD, analytics |
+| [kaushalpandey-admin](https://github.com/kaushalneoin-afk/kaushalpandey-admin) | React, TypeScript, Tailwind | Admin dashboard for content management, media uploads, analytics overview |
+
+</div>
+
+### 🛠️ SaaS Utility Tools
+
+**10 production-grade utility tools** demonstrating full-stack engineering, AI integration, and scalable architecture.
 
 <div align="center">
 
@@ -73,7 +88,7 @@ I've built **10 production-grade SaaS utility tools** demonstrating full-stack e
 |---|---------|------------|-------------|
 | 1 | [AI Resume ATS Analyzer](https://github.com/kaushalneoin-afk/ai-resume-ats-analyzer) | Next.js, Spring Boot, MongoDB, OpenAI | ATS score analysis, PDF resume parsing, AI feedback, keyword optimization |
 | 2 | [SEO Audit & Ranking Tool](https://github.com/kaushalneoin-afk/seo-audit-ranking-tool) | Spring Boot, React, MongoDB | SEO scoring, meta analysis, keyword density, rank tracking |
-| 3 | [Smart Document Converter](https://github.com/kaushalneoin-afk/smart-document-converter) | Spring Boot, PDFBox, React | PDF↔Word, JPG↔PDF, Excel↔CSV cloud conversion |
+| 3 | [Smart Document Converter](https://github.com/kaushalneoin-afk/smart-document-converter) | Spring Boot, PDFBox, React | PDF↔Word, JPG↔PDF, Excel↦CSV cloud conversion |
 | 4 | [AI Travel Planner](https://github.com/kaushalneoin-afk/ai-travel-planner) | Next.js, MongoDB, OpenAI | AI itinerary generation, budget planning, weather integration |
 | 5 | [Logistics Cost Calculator](https://github.com/kaushalneoin-afk/logistics-cost-calculator) | React, Spring Boot, MongoDB | Moving cost estimation, truck recommendation, pricing engine |
 | 6 | [Cloud Media Management](https://github.com/kaushalneoin-afk/cloud-media-management-system) | Node.js, Express, MongoDB, Cloudinary | Video upload, image optimization, CDN streaming, admin dashboard |
